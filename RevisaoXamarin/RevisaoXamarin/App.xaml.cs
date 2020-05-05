@@ -10,6 +10,8 @@ namespace RevisaoXamarin
         {
             InitializeComponent();
 
+            Application.Current.Properties["dtAtual"] = DateTime.Now;
+
             MainPage = new MainPage();
         }
 

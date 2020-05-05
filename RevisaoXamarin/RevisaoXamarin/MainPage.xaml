@@ -9,8 +9,19 @@
     <StackLayout>
         <!-- Place new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+               x:Name="lblBoasVindas"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+        <Entry Text="{Binding Name}" Placeholder="Enter Name"></Entry>
+        <Label Text="{Binding DisplayName}"></Label>
+
+        <Label Text="{Binding DisplayMessage}" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Button Text="Show Message" Command="{Binding ShowCommand}" />
+
+        <Button Text="Count Name" Command="{Binding CountCommand}" />
+        
+        <Button Text="Clear Texts" Command="{Binding CleanCommand}" />
     </StackLayout>
 
 </ContentPage>
