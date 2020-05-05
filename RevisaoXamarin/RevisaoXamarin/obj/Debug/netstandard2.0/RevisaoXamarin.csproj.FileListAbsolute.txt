@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\bin\Debug\netstandard2.0\RevisaoXamarin.deps.json
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\bin\Debug\netstandard2.0\RevisaoXamarin.dll
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\bin\Debug\netstandard2.0\ref\RevisaoXamarin.dll
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\bin\Debug\netstandard2.0\RevisaoXamarin.pdb
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\RevisaoXamarin.csprojAssemblyReference.cache
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\RevisaoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\RevisaoXamarin.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\RevisaoXamarin.AssemblyInfo.cs
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\RevisaoXamarin.dll
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\ref\RevisaoXamarin.dll
+C:\Users\marce\Desktop\PAMII\RevisaoXamarin\RevisaoXamarin\RevisaoXamarin\obj\Debug\netstandard2.0\RevisaoXamarin.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdGj5PVg9yHQZzaQgroJ013m/VovbLnVepXfIce/8pgajo6+wacHIorlAApvri+9yvvi6jE5LyGSurq124rBFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\Desktop\\PAMII\\RevisaoXamarin\\RevisaoXamarin\\RevisaoXamarin.iOS\\RevisaoXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
